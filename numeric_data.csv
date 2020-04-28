@@ -1,0 +1,193 @@
+,brand,price,size,difference,length
+0,J. Crew,45,29,236,44
+1,J. Crew,25,31,56,18
+2,J. Crew,18,34,40,42
+3,J. Crew,49,31,147,49
+4,J. Crew,25,,89,23
+5,J. Crew,25,36,42,23
+6,J. Crew,12,32,199,44
+7,J. Crew,25,32,59,40
+8,J. Crew,30,,150,17
+9,J. Crew,40,34,2,32
+10,J. Crew,28,33,5,38
+11,J. Crew,25,30,28,31
+12,J. Crew,13,29,8,29
+13,J. Crew,55,30,248,47
+14,J. Crew,39,34,166,49
+15,J. Crew,35,30,178,41
+16,J. Crew,25,32,341,48
+17,J. Crew,18,32,357,41
+18,J. Crew,45,34,64,31
+19,J. Crew,35,31,23,50
+20,J. Crew,14,34,563,45
+21,J. Crew,60,32,70,48
+22,J. Crew,25,29,54,49
+23,J. Crew,30,34,56,46
+24,J. Crew,55,,2,46
+25,J. Crew,25,30,79,48
+26,J. Crew,55,32,75,33
+27,J. Crew,20,32,60,13
+28,J. Crew,15,32,60,13
+29,J. Crew,36,32,108,46
+30,J. Crew,30,33,18,42
+31,J. Crew,45,36,114,37
+32,J. Crew,45,36,63,42
+33,J. Crew,22,33,443,41
+34,J. Crew,25,34,187,41
+35,J. Crew,19,31,236,36
+36,J. Crew,30,,144,49
+37,J. Crew,39,35,50,39
+38,J. Crew,39,32,51,47
+39,J. Crew,15,32,232,47
+40,J. Crew,32,33,114,33
+41,J. Crew,35,30,185,44
+42,J. Crew,26,32,51,27
+43,J. Crew,65,,108,47
+44,J. Crew,12,31,58,49
+45,J. Crew,25,28,61,30
+46,J. Crew,9,32,89,42
+47,J. Crew,25,30,40,47
+48,Naked & Famous Denim,54,28,63,50
+49,Naked & Famous Denim,99,30,242,45
+50,Naked & Famous Denim,160,,154,50
+51,Naked & Famous Denim,160,,250,50
+52,Naked & Famous Denim,180,,154,47
+53,Naked & Famous Denim,180,,250,46
+54,Naked & Famous Denim,160,,250,48
+55,Naked & Famous Denim,160,,250,48
+56,Naked & Famous Denim,39,30,1247,35
+57,Naked & Famous Denim,60,30,197,50
+58,Naked & Famous Denim,40,30,20,47
+59,Naked & Famous Denim,99,32,52,50
+60,Naked & Famous Denim,74,28,7,49
+61,Naked & Famous Denim,55,28,25,48
+62,Naked & Famous Denim,75,31,68,44
+63,Naked & Famous Denim,100,32,28,44
+64,Naked & Famous Denim,45,28,156,42
+65,Naked & Famous Denim,36,31,22,48
+66,Naked & Famous Denim,90,38,120,50
+67,Naked & Famous Denim,79,29,123,46
+68,Naked & Famous Denim,69,31,214,49
+69,Naked & Famous Denim,110,34,37,48
+70,Naked & Famous Denim,79,32,247,48
+71,Naked & Famous Denim,69,33,11,50
+72,Naked & Famous Denim,74,30,118,44
+73,Naked & Famous Denim,69,30,9,42
+74,Naked & Famous Denim,75,32,107,47
+75,Naked & Famous Denim,74,33,142,49
+76,Naked & Famous Denim,89,33,128,34
+77,Naked & Famous Denim,50,33,36,27
+78,Naked & Famous Denim,85,31,116,38
+79,Naked & Famous Denim,125,30,73,44
+80,Naked & Famous Denim,129,33,29,28
+81,Naked & Famous Denim,75,32,44,47
+82,Naked & Famous Denim,53,34,13,45
+83,Naked & Famous Denim,65,32,10,45
+84,Naked & Famous Denim,85,30,531,46
+85,Naked & Famous Denim,125,38,44,48
+86,Naked & Famous Denim,150,38,44,47
+87,Naked & Famous Denim,125,38,44,46
+88,Naked & Famous Denim,110,38,44,48
+89,Naked & Famous Denim,85,38,44,49
+90,Naked & Famous Denim,125,38,44,48
+91,Naked & Famous Denim,125,38,44,48
+92,Naked & Famous Denim,70,31,252,50
+93,Naked & Famous Denim,65,29,9,46
+94,Naked & Famous Denim,125,30,81,41
+95,Naked & Famous Denim,50,29,69,49
+96,Levi's,16,30,24,45
+97,Levi's,17,36,67,24
+98,Levi's,38,40,30,49
+99,Levi's,28,28,113,21
+100,Levi's,40,36,72,48
+101,Levi's,15,36,40,45
+102,Levi's,35,31,69,34
+103,Levi's,46,,226,10
+104,Levi's,15,38,3,47
+105,Levi's,11,,57,45
+106,Levi's,11,,57,47
+107,Levi's,20,34,102,49
+108,Levi's,24,38,125,50
+109,Levi's,33,38,378,45
+110,Levi's,30,40,46,35
+111,Levi's,15,32,257,16
+112,Levi's,25,34,37,46
+113,Levi's,32,31,85,30
+114,Levi's,20,32,257,12
+115,Levi's,45,30,113,49
+116,Levi's,24,30,38,45
+117,Levi's,28,32,451,36
+118,Levi's,32,30,104,50
+119,Levi's,21,33,72,10
+120,Levi's,55,36,274,50
+121,Levi's,28,30,27,48
+122,Levi's,23,34,319,46
+123,Levi's,28,30,69,50
+124,Levi's,85,33,53,50
+125,Levi's,49,33,40,49
+126,Levi's,100,34,53,45
+127,Levi's,31,38,49,49
+128,Levi's,25,,101,32
+129,Levi's,40,31,156,49
+130,Levi's,20,38,42,48
+131,Levi's,19,29,152,41
+132,Levi's,20,38,51,39
+133,Levi's,25,33,479,14
+134,Levi's,28,36,34,43
+135,Levi's,25,36,66,16
+136,Levi's,45,35,271,48
+137,Levi's,19,28,136,50
+138,Levi's,22,34,42,17
+139,Levi's,19,29,151,40
+140,Levi's,35,38,95,50
+141,Levi's,25,32,40,48
+142,Levi's,33,36,27,40
+143,Levi's,36,38,79,36
+144,Diesel,40,36,125,32
+145,Diesel,50,30,33,37
+146,Diesel,89,30,99,18
+147,Diesel,35,33,125,35
+148,Diesel,25,36,32,21
+149,Diesel,45,36,49,41
+150,Diesel,80,33,101,49
+151,Diesel,20,29,546,50
+152,Diesel,36,30,8,42
+153,Diesel,40,31,80,41
+154,Diesel,65,31,18,18
+155,Diesel,75,,35,44
+156,Diesel,60,32,68,48
+157,Diesel,46,29,72,47
+158,Diesel,75,32,34,35
+159,Diesel,72,33,277,43
+160,Diesel,59,31,17,50
+161,Diesel,35,30,157,43
+162,Diesel,41,29,46,44
+163,Diesel,75,,185,46
+164,Diesel,50,28,70,29
+165,Diesel,27,34,42,39
+166,Diesel,25,30,434,50
+167,Diesel,55,32,109,42
+168,Diesel,59,31,51,47
+169,Diesel,35,28,58,42
+170,Diesel,50,31,317,45
+171,Diesel,65,33,163,47
+172,Diesel,22,32,19,47
+173,Diesel,65,30,38,44
+174,Diesel,85,38,12,39
+175,Diesel,65,30,44,44
+176,Diesel,52,32,146,49
+177,Diesel,25,30,401,46
+178,Diesel,25,27,424,50
+179,Diesel,99,,67,47
+180,Diesel,68,34,88,44
+181,Diesel,54,30,50,41
+182,Diesel,80,30,241,44
+183,Diesel,49,,102,46
+184,Diesel,50,29,14,46
+185,Diesel,60,34,406,29
+186,Diesel,45,40,9,20
+187,Diesel,21,31,258,41
+188,Diesel,36,30,229,37
+189,Diesel,75,31,90,41
+190,diesel,24,34,6,48
+191,Diesel,24,28,195,40
